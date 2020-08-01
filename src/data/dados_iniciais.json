@@ -1,6 +1,103 @@
 {
   "categorias": [
     {
+      "titulo": "Cursos CINFO IFAL",
+      "link": "https://www2.ifal.edu.br/campus/maceio/ensino/cursos/superior/bacharelado-em-sistemas-de-informacao",
+      "cor": "#3333FF",
+      "link_extra": {
+        "text": "Curso Técnico de Desenvolvimento de Sistemas",
+        "url": "https://www2.ifal.edu.br/campus/maceio/ensino/cursos/tecnicos-integrados/desenvolvimento-de-sistemas"
+      },
+      "videos": [
+        {
+          "titulo": "Saiba mais sobre o curso de bacharelado em Sistemas de Informação do Campus Maceió!",
+          "url": "https://www.youtube.com/watch?v=sV4zNwmHf7s"
+        },
+        {
+          "titulo": "Vídeo institucional do Instituto Federal de Alagoas - IFAL",
+          "url": "https://www.youtube.com/watch?v=xag_CVDYW_U"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Lives CINFO",
+      "link": "https://www.instagram.com/cinfoifal/",
+      "cor": "#3333FF",
+      "link_extra": {
+        "text": "Lives",
+        "url": "https://www.youtube.com/watch?v=RXl2zCjVWC0&list=PLbWXzXac4sgLRqfMRsQBipqbxShJ7HU4q"
+      },
+      "videos": [
+        {
+          "titulo": "Live - De Maceió para o Mundo: A trajetória de sucesso de nossos ex-alunos",
+          "url": "https://www.youtube.com/watch?v=RXl2zCjVWC0"
+        },
+        {
+          "titulo": "WEBINAR - Home-Office: Tendência ou Realidade ?",
+          "url": "https://www.youtube.com/watch?v=AJB5Z4z2vTU"
+        },
+        {
+          "titulo": "O Diferencial Competitivo na Atualidade",
+          "url": "https://www.youtube.com/watch?v=05Aj6T9JA84"
+        },
+        {
+          "titulo": "o Zero à Startups: começando um negócio na faculdade",
+          "url": "https://www.youtube.com/watch?v=33ndcdwS3S4"
+        }
+      ]
+    },
+    {
+      "titulo": "Webnários IFAL Maceió",
+      "cor": "#2299FF",
+      "link": "https://www2.ifal.edu.br/campus/maceio/noticias/coordenacao-de-informatica-realiza-web-seminario-sobre-formacao-docente-e-tecnologias",
+      "link_extra": {
+        "text": "Webnários",
+        "url": "https://www.youtube.com/watch?v=5FRTd7oo1-g0&list=PLbWXzXac4sgLRqfMRsQBipqbxShJ7HU4q"
+      },
+      "videos": [
+        {
+          "titulo": "Educação Remota Pública de Qualidade: como incluir todos os alunos ?",
+          "url": "https://www.youtube.com/watch?v=5FRTd7oo1-g"
+        },
+        {
+          "titulo": "Limites e Potencialidades das Interfaces de Internet para a Construção de um Web Currículo",
+          "url": "https://www.youtube.com/watch?v=73G1Afn4arM"
+        },
+        {
+          "titulo": "Ciência, Racionalidade e Espiritualidade em Tempos de Pandemia",
+          "url": "youtube.com/watch?v=omJD4rCJClI"
+        }
+      ]
+    },
+    {
+      "titulo": "Vídeo Aulas",
+      "cor": "#dd66cc",
+      "link": "https://www.youtube.com/channel/UCuMfw8_cGmBxpcjOziYVJ5Q",
+      "link_extra": {
+        "text": "Canal CINFO IFAL - Dicas e Vídeo Aulas",
+        "url": "https://www.youtube.com/channel/UCuMfw8_cGmBxpcjOziYVJ5Q"
+      },
+      "videos": [
+        {
+          "titulo": "INTRODUÇÃO A MINERAÇÃO DE DADOS",
+          "url": "https://www.youtube.com/watch?v=6ulW2irfp1E&t=1170s"
+        },
+        {
+          "titulo": "Tecnologia da Informação voltada à Saúde",
+          "url": "https://www.youtube.com/watch?v=1uZXzs1Ke4M"
+        },
+        {
+          "titulo": "DICAS: Animação de Sprites em JavaScript",
+          "url": "https://www.youtube.com/watch?v=vjLGsFQi_c4"
+        },
+        {
+          "titulo": "Uso da computação na construção de um respirador pulmonar mecânico",
+          "url": "https://www.youtube.com/watch?v=82u5n36YBiw"
+        }
+      ]
+    },
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -40,7 +137,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -66,7 +163,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -118,36 +215,6 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
     },

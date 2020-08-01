@@ -1,11 +1,11 @@
 import React from 'react';
 import { FooterBase } from './styles';
-
+import LogoCINFO from "../../assets/img/logocinfo.png";
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="https://linktr.ee/cinfoifal">
+        <img src={LogoCINFO} alt="Logo CINFO" />
       </a>
       <p>
         Orgulhosamente criado durante a
