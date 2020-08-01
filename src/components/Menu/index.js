@@ -10,7 +10,7 @@ function Menu(){
         <a href="/">
             <img class="Logo" src={Logo} alt="CINFOFLIX Logo"/>
         </a>
-        <Button as="a" href="/" className="ButtonLink">Novo Vídeo</Button>
+        <Button as="a" href="/cadastro/video" className="ButtonLink">Novo Vídeo</Button>
         </nav>
     );
 }
